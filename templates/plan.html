@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Meal Plan</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Your Weekly Meal Plan</h1>
+        <div id="weekly-plan" class="mt-4">
+            <!-- This will be populated dynamically -->
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.get("/generate_plan", function(response) {
+                if (response.weekly_plan) {
+                    let planHtml = "<ul>";
+                    response.weekly_plan.forEach(function(dayPlan) {
+                        planHtml += `<li><h4>${dayPlan.day}</h4><ul>`;
+                        dayPlan.meals.forEach(function(meal) {
+                            planHtml += `<li>${meal.type}: ${meal.name} - ${meal.calories} kcal</li>`;
+                        });
+                        planHtml += "</ul></li>";
+                    });
+                    planHtml += "</ul>";
+                    $("#weekly-plan").html(planHtml);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

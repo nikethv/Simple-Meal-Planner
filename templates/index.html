@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Meal Planner</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .spinner-border {
+            width: 3rem;
+            height: 3rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center">Simple Meal Planner</h1>
+
+        <!-- BMI Calculator -->
+        <div class="section">
+            <h2>BMI Calculator</h2>
+            <form id="bmiForm">
+                <div class="form-group">
+                    <label for="height">Height (cm)</label>
+                    <input type="number" class="form-control" id="height" required>
+                </div>
+                <div class="form-group">
+                    <label for="weight">Weight (kg)</label>
+                    <input type="number" class="form-control" id="weight" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Calculate BMI</button>
+            </form>
+            <div id="bmi-loading" class="text-center mt-2" style="display: none;">
+                <div class="spinner-border text-primary" role="status"></div>
+            </div>
+            <div id="bmi-result" class="mt-3"></div>
+        </div>
+
+        <!-- Ingredient Recipe Search -->
+        <div class="section">
+            <h2>Recipe Search by Ingredients</h2>
+            <form id="recipeForm">
+                <div class="form-group">
+                    <label for="ingredient-input">Enter ingredients (comma separated)</label>
+                    <input type="text" class="form-control" id="ingredient-input" required>
+                </div>
+                <button type="submit" class="btn btn-info">Search Recipes</button>
+            </form>
+            <div id="recipe-loading" class="text-center mt-2" style="display: none;">
+                <div class="spinner-border text-info" role="status"></div>
+            </div>
+            <div id="recipe-container" class="mt-3"></div>
+        </div>
+
+        <!-- Leftover Ingredient Suggestions -->
+        <div class="section">
+            <h2>Suggestions for Leftover Ingredients</h2>
+            <form id="leftoverForm">
+                <div class="form-group">
+                    <label for="leftover-ingredients">Enter leftover ingredients (comma separated)</label>
+                    <input type="text" class="form-control" id="leftover-ingredients" required>
+                </div>
+                <button type="submit" class="btn btn-warning">Find Recipes</button>
+            </form>
+            <div id="leftover-loading" class="text-center mt-2" style="display: none;">
+                <div class="spinner-border text-warning" role="status"></div>
+            </div>
+            <div id="leftover-recipes-container" class="mt-3"></div>
+        </div>
+
+        <!-- Weekly Meal Plan -->
+        <div class="section">
+            <h2>Weekly Meal Plan</h2>
+            <button id="generate-plan-btn" class="btn btn-success">Generate Weekly Plan</button>
+            <div id="weekly-loading" class="text-center mt-3" style="display: none;">
+                <div class="spinner-border text-success" role="status"></div>
+            </div>
+            <div id="weekly-plan" class="mt-3"></div>
+        </div>
+    </div>
+
+    <!-- JS Scripts -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $("#bmiForm").submit(function (event) {
+            event.preventDefault();
+            $("#bmi-loading").show();
+            const height = $("#height").val();
+            const weight = $("#weight").val();
+            $.post("/calculate_bmi", { height, weight }, function (response) {
+                $("#bmi-result").html(`Your BMI: ${response.bmi}`);
+            }).fail(function () {
+                $("#bmi-result").html('Error calculating BMI.');
+            }).always(function () {
+                $("#bmi-loading").hide();
+            });
+        });
+
+        $("#recipeForm").submit(function (event) {
+            event.preventDefault();
+            $("#recipe-loading").show();
+            const ingredients = $("#ingredient-input").val();
+            $.post("/get_recipes", { ingredients }, function (response) {
+                let recipesHtml = "<h3>Found Recipes</h3><ul>";
+                response.recipes.forEach(recipe => {
+                    recipesHtml += `<li>${recipe.name} - ${recipe.calories} kcal</li>`;
+                });
+                recipesHtml += "</ul>";
+                $("#recipe-container").html(recipesHtml);
+            }).fail(function () {
+                $("#recipe-container").html('No recipes found.');
+            }).always(function () {
+                $("#recipe-loading").hide();
+            });
+        });
+
+        $("#leftoverForm").submit(function (event) {
+            event.preventDefault();
+            $("#leftover-loading").show();
+            const ingredients = $("#leftover-ingredients").val();
+            $.post("/leftover_ingredients", { ingredients }, function (response) {
+                let html = "<h3>Recipes with Leftover Ingredients</h3><ul>";
+                response.recipes.forEach(recipe => {
+                    html += `<li>${recipe.name} - ${recipe.calories} kcal</li>`;
+                });
+                html += "</ul>";
+                $("#leftover-recipes-container").html(html);
+            }).fail(function () {
+                $("#leftover-recipes-container").html('No recipes found.');
+            }).always(function () {
+                $("#leftover-loading").hide();
+            });
+        });
+
+        $("#generate-plan-btn").click(function () {
+            $("#weekly-loading").show();
+            $.post("/generate_plan", {}, function (response) {
+                let planHtml = "<h3>Weekly Meal Plan</h3>";
+                response.weekly_plan.forEach(dayPlan => {
+                    planHtml += `<h4>${dayPlan.day}</h4><ul>`;
+                    dayPlan.meals.forEach(meal => {
+                        planHtml += `<li>${meal.type}: ${meal.name} - ${meal.calories} kcal</li>`;
+                    });
+                    planHtml += "</ul>";
+                });
+                $("#weekly-plan").html(planHtml);
+            }).fail(function () {
+                $("#weekly-plan").html('Error generating meal plan.');
+            }).always(function () {
+                $("#weekly-loading").hide();
+            });
+        });
+    </script>
+</body>
+
+</html>

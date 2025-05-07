@@ -1,0 +1,1001 @@
+Dish_Name,Ingredients,Keywords,Calories,Protein,Fiber
+Kadai Paneer,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",474.54,22.88,4.31
+Medu Vada ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",455.4,14.14,3.48
+Samosa ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",191.57,6.5,7.28
+Masoor Dal ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",432.36,29.09,2.21
+Baingan Bharta ,"green gram, spices, ginger","green gram, spices, ginger",272.06,15.49,3.15
+Palak Paneer ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",262.11,24.94,9.72
+Pani Puri ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",168.22,19.99,9.34
+Pav Bhaji ,"rice, lentils, vegetables","vegetables, lentils, rice",389.5,7.47,5.63
+Vada ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",294.81,5.53,8.47
+Mutton Rogan Josh ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",389.87,27.52,3.39
+Idli ,"okra, onion, spices, oil","onion, oil, spices, okra",210.95,23.35,1.22
+Upma ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",285.29,15.15,9.08
+Masoor Dal ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",451.78,20,3.14
+Pani Puri ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",382.14,10.44,9.08
+Pani Puri ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",155.21,12.48,7.97
+Rajma Chawal ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",156.15,15.27,9.12
+Vegetable Biryani ,"lentils, spices, rice flour","lentils, spices, rice flour",338.27,17.6,7.22
+Vada ,"vegetables, spices, rice","vegetables, spices, rice",320.77,13.18,8.82
+Chicken Curry ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",371.02,20.18,7.32
+Mutton Rogan Josh ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",583.11,18.03,9.22
+Palak Paneer ,"okra, onion, spices, oil","onion, oil, spices, okra",374.45,5.32,6.01
+Pav Bhaji ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",597.18,11.96,5.65
+Masoor Dal ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",567.74,9.06,5.93
+Poha ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",515.79,23.2,3.58
+Palak Paneer ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",433.9,14.55,6.77
+Khichdi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",235.88,27.71,5.72
+Undhiyu ,"tapioca, peanuts, spices","peanuts, spices, tapioca",284.35,16.9,7.2
+Paneer Butter Masala ,"cabbage, gram flour, spices","cabbage, spices, gram flour",568.81,19.82,9.32
+Vegetable Biryani ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",534.81,28.21,6.3
+Pesarattu ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",456.58,5.03,1.79
+Paneer Butter Masala ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",551.26,17.96,7.71
+Vegetable Biryani ,"urad dal, rice flour, spices","urad dal, spices, rice flour",266.01,6.61,9.88
+Pav Bhaji ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",401.77,9.66,7.23
+Chole Bhature ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",175.14,23.85,2.07
+Mutton Rogan Josh ,"urad dal, rice flour, spices","urad dal, spices, rice flour",324.35,19.09,1.9
+Dhokla ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",295.1,9.99,1.68
+Thepla ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",211.93,7.44,3.11
+Samosa ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",476.72,5.1,8.26
+Dosa ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",399.53,22.3,3.42
+Aloo Paratha ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",401.14,10.5,9.59
+Samosa ,"rice, lentils, vegetables","vegetables, lentils, rice",153.55,7.8,8.56
+Chole Bhature ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",205.37,16.34,1.74
+Mutton Rogan Josh ,"urad dal, rice flour, spices","urad dal, spices, rice flour",404.73,16.83,7.62
+Poha ,"cabbage, gram flour, spices","cabbage, spices, gram flour",221.75,19.02,9.08
+Medu Vada ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",400.16,26.94,8.4
+Upma ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",353.7,5.8,3.79
+Sabudana Khichdi ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",568.16,14.86,7.84
+Upma ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",519.18,10.01,5.59
+Medu Vada ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",456.75,26.49,6
+Rajma Chawal ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",558.8,20.55,8.78
+Bhindi Masala ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",380.38,10.23,8.54
+Palak Paneer ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",256.91,17.72,2.98
+Khichdi ,"urad dal, rice flour, spices","urad dal, spices, rice flour",421.09,29.66,5.81
+Rajma Chawal ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",197.91,5.56,2.56
+Bhel Puri ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",551.99,6.63,1.92
+Thepla ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",540.78,24.64,2.64
+Kadai Paneer ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",509.72,5.86,2.32
+Samosa ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",493.51,14.03,1.4
+Pesarattu ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",211.37,29.78,5.57
+Upma ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",468.99,7.13,5.01
+Kadai Paneer ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",392.86,17.05,1.78
+Thepla ,"vegetables, spices, rice","vegetables, spices, rice",335.12,17.39,9.75
+Upma ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",503.43,19.98,4.22
+Vada ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",193.04,26.72,9.66
+Chole Bhature ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",284.45,9.22,1.73
+Khandvi ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",468.58,19.22,3.1
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",358.92,8.09,8.07
+Kadai Paneer ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",249.74,15.95,3.36
+Vada ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",193.86,15.12,4.36
+Khandvi ,"green gram, spices, ginger","green gram, spices, ginger",404.56,23.95,4.03
+Misal Pav ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",394.27,18.84,6.62
+Rajma Chawal ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",282.85,29.04,4.57
+Poha ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",299.68,28.85,6.37
+Undhiyu ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",448.29,27.79,2.51
+Samosa ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",294.16,24.58,5.83
+Sabudana Khichdi ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",403.61,10.67,2.68
+Aloo Paratha ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",569.08,26.35,4.07
+Aloo Paratha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",333.17,10.63,5.32
+Khandvi ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",558.61,21.73,7.13
+Pav Bhaji ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",249.87,13.3,5.38
+Khandvi ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",386.73,9.03,6.83
+Masoor Dal ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",280.82,15.23,4.09
+Vegetable Biryani ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",195.29,8.24,5.63
+Dhokla ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",224.89,18.97,1.47
+Khandvi ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",180.91,16.43,7.07
+Paneer Butter Masala ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",256.82,28.56,5.19
+Bhel Puri ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",154.68,5.25,8.64
+Bhel Puri ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",507.15,27.02,3.62
+Aloo Paratha ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",271.42,10.91,1.2
+Rajma Chawal ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",549.23,26.15,1.28
+Pesarattu ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",305.3,11.93,4.1
+Palak Paneer ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",420.86,20.07,9.46
+Thepla ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",382.49,7.8,9.43
+Upma ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",339.3,19.67,9.51
+Vada ,"gram flour, spices, yogurt","yogurt, spices, gram flour",547.72,21.97,5.95
+Aloo Paratha ,"green gram, spices, ginger","green gram, spices, ginger",437.09,18.94,8.61
+Sev Puri ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",427.68,14.4,5.92
+Palak Paneer ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",235.95,27.99,1.68
+Baingan Bharta ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",552.46,7.25,6.94
+Baingan Bharta ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",195.89,9.45,3.66
+Paneer Butter Masala ,"urad dal, rice flour, spices","urad dal, spices, rice flour",157.64,21.32,7.05
+Bhindi Masala ,"cabbage, gram flour, spices","cabbage, spices, gram flour",443.31,23.82,3.83
+Baingan Bharta ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",280.82,7.36,3.42
+Samosa ,"gram flour, spices, yogurt","yogurt, spices, gram flour",501.57,25.97,7.53
+Khichdi ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",202.36,10.27,5.07
+Bhel Puri ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",460.93,16.04,3.23
+Bhel Puri ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",226.89,28.75,6.25
+Idli ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",321.73,10.37,2.37
+Sabudana Khichdi ,"cabbage, gram flour, spices","cabbage, spices, gram flour",470.48,25.47,6.26
+Pani Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",485.38,10.18,7.04
+Sabudana Khichdi ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",512.23,16.42,2.64
+Vegetable Biryani ,"green gram, spices, ginger","green gram, spices, ginger",576.17,7.79,1.71
+Baingan Bharta ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",310.16,14.56,5.66
+Vada ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",162.42,10.14,1.98
+Baingan Bharta ,"urad dal, rice flour, spices","urad dal, spices, rice flour",432.49,8.42,4.35
+Misal Pav ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",382.04,6.94,9.85
+Chicken Curry ,"okra, onion, spices, oil","onion, oil, spices, okra",533.13,20.09,9.61
+Vegetable Biryani ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",571.16,25.13,5.05
+Idli ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",258.53,19.64,2.9
+Palak Paneer ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",268.16,17,7.07
+Medu Vada ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",492.53,28.35,8.41
+Bhindi Masala ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",286.92,13.62,3.9
+Vada ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",449.61,9.81,8.29
+Chole Bhature ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",534.21,6.01,5.52
+Idli ,"rice, lentils, vegetables","vegetables, lentils, rice",473.25,5.9,1.23
+Medu Vada ,"tapioca, peanuts, spices","peanuts, spices, tapioca",313.88,6.75,2.92
+Tandoori Chicken ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",337.88,5.01,6.28
+Medu Vada ,"vegetables, spices, rice","vegetables, spices, rice",434.45,14.64,4.1
+Aloo Paratha ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",330.41,17.15,2.88
+Masoor Dal ,"urad dal, rice flour, spices","urad dal, spices, rice flour",428.56,9.85,2.58
+Thepla ,"lentils, spices, rice flour","lentils, spices, rice flour",188.08,7.75,7.64
+Mutton Rogan Josh ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",562.8,7.77,3.43
+Dosa ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",315.25,10.26,3.43
+Kadai Paneer ,"rice, lentils, vegetables","vegetables, lentils, rice",458.71,22.29,2.81
+Vegetable Biryani ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",313.74,18.26,8.97
+Dhokla ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",229.28,27.73,9.07
+Chicken Curry ,"gram flour, spices, yogurt","yogurt, spices, gram flour",341.15,6.94,2.04
+Mutton Rogan Josh ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",433.84,16.49,5.69
+Kadai Paneer ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",274.7,28.31,1.76
+Poha ,"urad dal, rice flour, spices","urad dal, spices, rice flour",434.46,20.46,7.68
+Idli ,"green gram, spices, ginger","green gram, spices, ginger",403.67,22.75,2.96
+Bhel Puri ,"okra, onion, spices, oil","onion, oil, spices, okra",567.37,24.18,6.9
+Chole Bhature ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",508.47,16.96,4.51
+Samosa ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",382.57,14.96,2.68
+Samosa ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",325.05,22.77,5.56
+Bhindi Masala ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",404.47,22.21,5.51
+Paneer Butter Masala ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",494.86,11.92,2.87
+Vegetable Biryani ,"green gram, spices, ginger","green gram, spices, ginger",185.18,17.35,9.49
+Khichdi ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",239.41,21.87,6.45
+Masoor Dal ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",171.13,7.74,8.75
+Sev Puri ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",287.49,23.02,1.85
+Khichdi ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",430.4,6.77,1.34
+Sev Puri ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",311.93,21.03,4.34
+Poha ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",181.91,11.42,1.79
+Tandoori Chicken ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",212.28,26.13,1.33
+Bhindi Masala ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",544.17,10.89,3.59
+Bhindi Masala ,"rice, lentils, vegetables","vegetables, lentils, rice",584.03,26.42,8.51
+Pani Puri ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",527.25,26.72,5.51
+Baingan Bharta ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",449.7,29.33,9.38
+Vegetable Biryani ,"okra, onion, spices, oil","onion, oil, spices, okra",351.1,29.2,7.4
+Samosa ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",164.11,6.44,9.26
+Rajma Chawal ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",527.56,25.5,7.01
+Medu Vada ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",256.8,25.51,7.64
+Kadai Paneer ,"cabbage, gram flour, spices","cabbage, spices, gram flour",253.71,20.63,7
+Mutton Rogan Josh ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",192.05,19.15,8.72
+Paneer Butter Masala ,"vegetables, spices, rice","vegetables, spices, rice",502.96,22,7.02
+Pesarattu ,"urad dal, rice flour, spices","urad dal, spices, rice flour",348.31,29.68,1.78
+Masoor Dal ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",326.1,12.16,2.99
+Kadai Paneer ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",377.71,11.03,3.31
+Samosa ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",482.19,24.61,3.24
+Khandvi ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",219.05,9.75,4.15
+Tandoori Chicken ,"rice, lentils, vegetables","vegetables, lentils, rice",336.69,27.11,5.03
+Chicken Curry ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",463.85,13.32,4.9
+Dosa ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",512.06,22.99,6.45
+Vegetable Biryani ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",456.26,23.25,8.78
+Medu Vada ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",287.54,9.9,7.95
+Vegetable Biryani ,"urad dal, rice flour, spices","urad dal, spices, rice flour",297.81,28.46,7.65
+Idli ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",158.99,25.11,1.74
+Kadai Paneer ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",297.05,20.12,7.87
+Pav Bhaji ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",217.83,26.52,8.04
+Mutton Rogan Josh ,"vegetables, spices, rice","vegetables, spices, rice",211.41,18.83,6.11
+Upma ,"gram flour, spices, yogurt","yogurt, spices, gram flour",222.62,26.68,4.08
+Dosa ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",473.79,19.76,3.63
+Medu Vada ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",319.13,11.53,9.83
+Kadai Paneer ,"vegetables, spices, rice","vegetables, spices, rice",157.2,12.17,7.39
+Chicken Curry ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",555.24,21.91,9.41
+Upma ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",220.3,17.7,4.49
+Dhokla ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",465.45,7.72,7.17
+Chole Bhature ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",420.67,20.73,6.43
+Dhokla ,"urad dal, rice flour, spices","urad dal, spices, rice flour",239.71,25.47,5.43
+Khandvi ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",197.63,15.79,7.63
+Palak Paneer ,"tapioca, peanuts, spices","peanuts, spices, tapioca",550.76,27.56,7.58
+Idli ,"green gram, spices, ginger","green gram, spices, ginger",221.56,13.4,6.16
+Poha ,"cabbage, gram flour, spices","cabbage, spices, gram flour",431.8,14.62,1.37
+Medu Vada ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",158.56,24.52,1
+Masoor Dal ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",330.65,15.75,3.97
+Pav Bhaji ,"urad dal, rice flour, spices","urad dal, spices, rice flour",150.29,12.46,7.15
+Handvo ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",530.73,20.17,8.49
+Bhindi Masala ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",313.42,25.13,8.31
+Khandvi ,"green gram, spices, ginger","green gram, spices, ginger",596.68,27.91,7.92
+Handvo ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",276.06,23.48,9.52
+Dosa ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",314.74,18.03,7.26
+Idli ,"green gram, spices, ginger","green gram, spices, ginger",406.18,6.33,2.93
+Kadai Paneer ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",475.46,20.32,4.28
+Khichdi ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",359.44,21.21,9.13
+Idli ,"vegetables, spices, rice","vegetables, spices, rice",163.55,23.1,2.21
+Sabudana Khichdi ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",197.09,8.17,4.38
+Sabudana Khichdi ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",243.28,6.34,8.99
+Dhokla ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",451.5,22.07,9.28
+Undhiyu ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",230.01,17.52,1.93
+Khandvi ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",405.43,6.62,6.17
+Handvo ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",377.16,29.56,9.76
+Pav Bhaji ,"gram flour, spices, yogurt","yogurt, spices, gram flour",582.76,18.76,9.06
+Chole Bhature ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",349.92,14.16,3.09
+Bhindi Masala ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",253.07,11.56,4.19
+Rajma Chawal ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",216.7,14.59,6.87
+Chole Bhature ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",311.4,22.71,3.89
+Palak Paneer ,"gram flour, spices, yogurt","yogurt, spices, gram flour",496.51,16.99,8.63
+Chole Bhature ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",304.67,24.85,4.8
+Samosa ,"gram flour, spices, yogurt","yogurt, spices, gram flour",414.64,27.49,7.14
+Mutton Rogan Josh ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",167.77,8.57,7.73
+Vegetable Biryani ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",389.73,13.48,4.6
+Aloo Paratha ,"lentils, spices, rice flour","lentils, spices, rice flour",578.74,9.11,8.96
+Sev Puri ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",371.93,28.6,5.03
+Sev Puri ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",524.25,24.2,2.26
+Rajma Chawal ,"green gram, spices, ginger","green gram, spices, ginger",213.12,5.32,1.88
+Undhiyu ,"urad dal, rice flour, spices","urad dal, spices, rice flour",523.91,5.88,1.29
+Baingan Bharta ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",589.34,13.94,4.65
+Idli ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",424.57,24.3,4.69
+Chole Bhature ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",225.62,18.05,9.52
+Pesarattu ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",196.04,23.39,3.44
+Vegetable Biryani ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",192.35,15.39,9.16
+Sev Puri ,"vegetables, spices, rice","vegetables, spices, rice",470.29,21,2.41
+Dosa ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",490.14,23.11,6.52
+Samosa ,"gram flour, spices, yogurt","yogurt, spices, gram flour",532.77,23.49,3.8
+Misal Pav ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",483.37,15.35,8.4
+Chicken Curry ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",184.29,25.52,1.18
+Idli ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",203.25,12.89,2.05
+Tandoori Chicken ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",202.98,16.62,3.04
+Rajma Chawal ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",545.02,14.89,3.56
+Pav Bhaji ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",401.33,25.91,5.8
+Khandvi ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",485.4,22.81,4.28
+Sabudana Khichdi ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",224.68,13.97,9.43
+Upma ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",293.21,20.72,9.52
+Vegetable Biryani ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",364.81,6.98,7.2
+Chole Bhature ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",224.55,7.99,1.68
+Chicken Curry ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",597.21,23.86,7.23
+Undhiyu ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",590.28,7.2,9.17
+Sabudana Khichdi ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",186.99,5,5.51
+Aloo Paratha ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",200.84,22.1,8.3
+Bhindi Masala ,"vegetables, spices, rice","vegetables, spices, rice",472.11,29.87,5.09
+Dosa ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",195.71,7.94,1.99
+Upma ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",219.16,6.61,1.41
+Chicken Curry ,"tapioca, peanuts, spices","peanuts, spices, tapioca",446.6,10.8,4.46
+Paneer Butter Masala ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",372.33,14.85,1.87
+Medu Vada ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",337.01,26.69,8.16
+Palak Paneer ,"gram flour, spices, yogurt","yogurt, spices, gram flour",453.13,27.12,2.04
+Pesarattu ,"urad dal, rice flour, spices","urad dal, spices, rice flour",156.43,6.31,9.93
+Dosa ,"vegetables, spices, rice","vegetables, spices, rice",542.38,7.42,6.92
+Misal Pav ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",339.5,6.7,5.5
+Medu Vada ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",333.55,28.48,3.37
+Aloo Paratha ,"vegetables, spices, rice","vegetables, spices, rice",590.93,9.41,6.66
+Misal Pav ,"rice, lentils, vegetables","vegetables, lentils, rice",362.79,21.52,4.8
+Baingan Bharta ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",578.46,24.35,3.16
+Handvo ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",225.59,10.97,2.3
+Bhindi Masala ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",590.56,21.6,9.83
+Pav Bhaji ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",222.67,25.56,5.17
+Kadai Paneer ,"rice, lentils, vegetables","vegetables, lentils, rice",423.59,7.59,3.1
+Thepla ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",318.73,12.39,6.46
+Aloo Paratha ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",542.31,15.04,5.84
+Bhel Puri ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",180.59,26.56,5.09
+Aloo Paratha ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",187.51,10.66,1
+Baingan Bharta ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",575.89,29.9,1.55
+Misal Pav ,"urad dal, rice flour, spices","urad dal, spices, rice flour",313.69,20.03,4.34
+Upma ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",314.3,19.61,1.01
+Dhokla ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",301.42,23.48,4.16
+Aloo Paratha ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",595.6,22.37,4.54
+Thepla ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",523.22,12.38,4.48
+Sabudana Khichdi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",419.84,23.68,8.16
+Pav Bhaji ,"tapioca, peanuts, spices","peanuts, spices, tapioca",352.12,15.16,4.57
+Misal Pav ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",592.46,19.83,5.14
+Aloo Paratha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",221,29.87,4.53
+Pesarattu ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",168.16,10.95,4.32
+Misal Pav ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",363.8,20.16,8.95
+Poha ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",212.82,26,6.29
+Masoor Dal ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",289.46,15.21,8.04
+Idli ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",299.24,7.38,4.37
+Chole Bhature ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",187.81,7,9.09
+Idli ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",291.81,12.8,3.21
+Sabudana Khichdi ,"rice, lentils, vegetables","vegetables, lentils, rice",152.31,9.54,6.81
+Chicken Curry ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",288.45,12.92,6.93
+Rajma Chawal ,"tapioca, peanuts, spices","peanuts, spices, tapioca",593.51,10.34,3.73
+Aloo Paratha ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",176.08,26.65,6.76
+Medu Vada ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",455.49,19.06,5.14
+Handvo ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",461.07,26.02,8.81
+Vada ,"lentils, spices, rice flour","lentils, spices, rice flour",400.22,20.32,4.01
+Dosa ,"cabbage, gram flour, spices","cabbage, spices, gram flour",483.84,24.57,7.94
+Poha ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",377.49,15.1,7.52
+Bhindi Masala ,"vegetables, spices, rice","vegetables, spices, rice",195.58,28.67,2.11
+Pav Bhaji ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",337.79,16.83,8.55
+Medu Vada ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",233.51,16.27,6.68
+Pani Puri ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",391.95,18.84,9.26
+Aloo Paratha ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",475.79,13.27,6.82
+Sabudana Khichdi ,"tapioca, peanuts, spices","peanuts, spices, tapioca",542.31,22.34,9.7
+Pesarattu ,"tapioca, peanuts, spices","peanuts, spices, tapioca",580.7,28.71,1.47
+Poha ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",504.05,5.22,1.32
+Dhokla ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",501.25,17.49,3.2
+Idli ,"rice, lentils, vegetables","vegetables, lentils, rice",540.26,19.92,3.34
+Bhindi Masala ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",501.45,8.35,1.92
+Sev Puri ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",340.93,12,6.23
+Mutton Rogan Josh ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",384.46,11.65,6.69
+Thepla ,"urad dal, rice flour, spices","urad dal, spices, rice flour",150.01,11.01,9.94
+Upma ,"okra, onion, spices, oil","onion, oil, spices, okra",200.37,23.61,9.8
+Mutton Rogan Josh ,"cabbage, gram flour, spices","cabbage, spices, gram flour",394.1,6.69,1
+Paneer Butter Masala ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",428.39,15.01,2.39
+Bhel Puri ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",156.49,28.92,5.11
+Baingan Bharta ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",247.91,26.47,9.02
+Samosa ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",222.65,13.22,1.06
+Samosa ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",227.01,29.71,7.29
+Pesarattu ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",593.95,15.8,6.82
+Dosa ,"tapioca, peanuts, spices","peanuts, spices, tapioca",169.94,18.36,6.3
+Aloo Paratha ,"okra, onion, spices, oil","onion, oil, spices, okra",223.61,23.2,3.52
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",503.38,26.18,2.92
+Pani Puri ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",270.52,16.58,8.52
+Tandoori Chicken ,"green gram, spices, ginger","green gram, spices, ginger",225.73,17.89,5.87
+Poha ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",583.51,21.91,5.71
+Mutton Rogan Josh ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",589.81,13.49,8.77
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",205.56,8.91,7.19
+Rajma Chawal ,"okra, onion, spices, oil","onion, oil, spices, okra",394.66,16.55,7.09
+Khandvi ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",374.82,24.28,9.05
+Kadai Paneer ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",417.79,12.77,2.66
+Upma ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",324.99,7.45,7.83
+Pani Puri ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",520.72,28.58,5.89
+Vegetable Biryani ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",325.5,20.72,1.4
+Thepla ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",395.78,29.63,2.23
+Dosa ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",412.61,21.57,1.04
+Thepla ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",429.46,8.72,4.05
+Palak Paneer ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",311.72,29.07,1.46
+Handvo ,"gram flour, spices, yogurt","yogurt, spices, gram flour",520.78,12.21,4.76
+Khichdi ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",512.8,8.4,9.38
+Poha ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",529.61,24.56,6.43
+Paneer Butter Masala ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",251.89,16.95,8.48
+Chicken Curry ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",220.14,29.03,7.93
+Pani Puri ,"green gram, spices, ginger","green gram, spices, ginger",254.42,21.49,8.59
+Dhokla ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",217.47,21.93,2.15
+Undhiyu ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",549.67,16.89,9.42
+Palak Paneer ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",560.97,25.09,8.87
+Kadai Paneer ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",246.67,19.1,3.1
+Medu Vada ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",218.07,19.39,8.13
+Medu Vada ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",336.2,27.14,1.43
+Medu Vada ,"gram flour, spices, yogurt","yogurt, spices, gram flour",258.45,24,1.3
+Handvo ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",212.32,14.15,7.12
+Medu Vada ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",353.18,26.1,5.76
+Vada ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",362.43,21.39,4.37
+Pani Puri ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",215.67,17.87,8.41
+Khandvi ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",540.35,5.41,8.69
+Kadai Paneer ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",422.03,15.07,3.95
+Khichdi ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",516.6,21.76,3.42
+Poha ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",194.83,16.34,1.43
+Medu Vada ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",462.6,25.48,8.85
+Baingan Bharta ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",154.77,13.46,8.7
+Bhel Puri ,"lentils, spices, rice flour","lentils, spices, rice flour",349.37,9.74,6.42
+Samosa ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",423.78,17.97,8.06
+Pav Bhaji ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",174.46,29.07,2.84
+Dosa ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",473.02,22.91,7.78
+Handvo ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",202.42,12.25,8.52
+Samosa ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",286.21,18.27,5.48
+Palak Paneer ,"lentils, spices, rice flour","lentils, spices, rice flour",535.41,16.25,3.74
+Chole Bhature ,"vegetables, spices, rice","vegetables, spices, rice",557.5,23.36,5.65
+Vada ,"rice, lentils, vegetables","vegetables, lentils, rice",446.48,5.66,7.39
+Khandvi ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",192.63,9.51,6.34
+Aloo Paratha ,"vegetables, spices, rice","vegetables, spices, rice",525.46,9.74,7.64
+Chole Bhature ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",307.26,22.98,5.13
+Aloo Paratha ,"cabbage, gram flour, spices","cabbage, spices, gram flour",537,14.34,6.09
+Baingan Bharta ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",426.21,17.7,3.67
+Samosa ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",460.45,9.13,3.07
+Tandoori Chicken ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",194.42,7.23,2.61
+Undhiyu ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",403.52,26.93,2.23
+Baingan Bharta ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",474.64,17.32,2.34
+Masoor Dal ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",310.03,14.54,2.19
+Chole Bhature ,"gram flour, spices, yogurt","yogurt, spices, gram flour",522.34,10.77,2.62
+Masoor Dal ,"tapioca, peanuts, spices","peanuts, spices, tapioca",268.39,22.25,2.98
+Handvo ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",529.28,14.63,8.98
+Vegetable Biryani ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",513.8,13.1,1.66
+Dhokla ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",433.99,23.13,4.21
+Sev Puri ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",231.04,5.97,5.94
+Undhiyu ,"rice, lentils, vegetables","vegetables, lentils, rice",246.44,23.24,6.6
+Samosa ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",276.09,25.82,8.79
+Chicken Curry ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",212.38,8.46,7.83
+Masoor Dal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",265.79,13.45,8.22
+Vada ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",425.97,20.59,8.19
+Thepla ,"lentils, spices, rice flour","lentils, spices, rice flour",348.54,27.26,5.39
+Chicken Curry ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",230.3,24.98,2.34
+Bhel Puri ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",483.64,19.16,1.9
+Thepla ,"okra, onion, spices, oil","onion, oil, spices, okra",341.6,29.04,3.28
+Paneer Butter Masala ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",532.81,22.41,5.71
+Idli ,"tapioca, peanuts, spices","peanuts, spices, tapioca",353.06,15.59,1.39
+Dosa ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",278.28,5.26,3.92
+Samosa ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",539.03,22.82,6.8
+Upma ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",362.28,18.6,8.73
+Dhokla ,"vegetables, spices, rice","vegetables, spices, rice",437,11.41,8.99
+Samosa ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",222.29,25.8,6.16
+Paneer Butter Masala ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",419.16,5.84,8.95
+Rajma Chawal ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",455.7,14.09,5.59
+Aloo Paratha ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",493.7,18.28,5.76
+Chicken Curry ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",171.89,14.7,4.35
+Paneer Butter Masala ,"rice, lentils, vegetables","vegetables, lentils, rice",408.41,8.42,3.75
+Mutton Rogan Josh ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",221.39,24.56,6.83
+Chicken Curry ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",486.25,22.96,4.25
+Handvo ,"okra, onion, spices, oil","onion, oil, spices, okra",238.72,12.46,8.13
+Poha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",403.51,25.22,6.64
+Dosa ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",295.92,21.91,5.92
+Sev Puri ,"tapioca, peanuts, spices","peanuts, spices, tapioca",414.57,15.41,1.72
+Dhokla ,"vegetables, spices, rice","vegetables, spices, rice",559.59,26.19,8.02
+Misal Pav ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",508.42,26.46,5.33
+Khichdi ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",576.46,16.17,7.58
+Samosa ,"gram flour, spices, yogurt","yogurt, spices, gram flour",300.61,6.29,6.67
+Baingan Bharta ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",402.73,22.78,6.92
+Upma ,"cabbage, gram flour, spices","cabbage, spices, gram flour",595.11,19.4,6.46
+Chicken Curry ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",528.78,12.77,9.69
+Idli ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",406.81,26.83,4.34
+Upma ,"tapioca, peanuts, spices","peanuts, spices, tapioca",209.87,25.51,7.59
+Aloo Paratha ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",500.43,6.44,7.09
+Chole Bhature ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",252.73,23.43,8.47
+Chicken Curry ,"urad dal, rice flour, spices","urad dal, spices, rice flour",254.99,7.06,8.48
+Kadai Paneer ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",456.62,20.18,7.37
+Aloo Paratha ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",151.17,21.9,5.22
+Misal Pav ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",218.41,11.74,1.26
+Bhel Puri ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",400.41,13.77,2.31
+Upma ,"lentils, spices, rice flour","lentils, spices, rice flour",483.67,8.7,3.38
+Tandoori Chicken ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",511.57,9.2,5.19
+Pani Puri ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",243.93,7.05,7.53
+Thepla ,"cabbage, gram flour, spices","cabbage, spices, gram flour",168.1,13.4,6.88
+Undhiyu ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",261.01,28.74,8.21
+Chole Bhature ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",380.95,7.52,6.22
+Aloo Paratha ,"green gram, spices, ginger","green gram, spices, ginger",580.18,5.63,8.72
+Undhiyu ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",326.29,20.62,1.74
+Khichdi ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",433.8,26.88,7.9
+Bhel Puri ,"green gram, spices, ginger","green gram, spices, ginger",174.13,26.2,6.52
+Vegetable Biryani ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",548.85,21.81,1.87
+Undhiyu ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",392.71,13.15,1.4
+Pesarattu ,"lentils, spices, rice flour","lentils, spices, rice flour",399.65,19.15,1.69
+Pani Puri ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",508.63,27.63,2.36
+Masoor Dal ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",421.25,7.34,6.93
+Bhel Puri ,"lentils, spices, rice flour","lentils, spices, rice flour",247.57,27.8,5.7
+Upma ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",320.86,26.1,8.48
+Poha ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",385.36,28.87,9.38
+Vada ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",262.06,21.17,3.68
+Paneer Butter Masala ,"tapioca, peanuts, spices","peanuts, spices, tapioca",298.49,21.78,1.1
+Chicken Curry ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",428.82,22.16,1.54
+Palak Paneer ,"vegetables, spices, rice","vegetables, spices, rice",500.18,7.94,5.15
+Medu Vada ,"vegetables, spices, rice","vegetables, spices, rice",315.56,16.61,2.04
+Undhiyu ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",460.12,17.34,2.61
+Rajma Chawal ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",208.67,15.17,1.1
+Rajma Chawal ,"rice, lentils, vegetables","vegetables, lentils, rice",425.94,7.87,8.05
+Pav Bhaji ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",595.85,12.37,4.48
+Poha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",314.19,11.41,6.16
+Rajma Chawal ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",241.89,28.74,9.78
+Tandoori Chicken ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",369.68,15.62,6.91
+Thepla ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",451.38,17.3,6.81
+Paneer Butter Masala ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",558.68,27,9.92
+Pav Bhaji ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",213.87,23.95,8.51
+Bhel Puri ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",221.76,19.02,7.31
+Samosa ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",352.01,15.01,9.74
+Khichdi ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",552.47,15.21,8.82
+Chicken Curry ,"urad dal, rice flour, spices","urad dal, spices, rice flour",411.23,11.85,6.82
+Sev Puri ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",202.41,17.14,4.79
+Dosa ,"lentils, spices, rice flour","lentils, spices, rice flour",400.01,26.06,6.06
+Thepla ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",442.99,9.97,8.44
+Bhel Puri ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",476.66,11.92,7.47
+Sabudana Khichdi ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",283.16,12.99,9.65
+Bhel Puri ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",244.13,8.59,9.55
+Aloo Paratha ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",480.96,20.35,3.25
+Baingan Bharta ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",420.14,16.17,8.59
+Chicken Curry ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",427.29,7.29,2.74
+Thepla ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",188,21.49,6.37
+Chicken Curry ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",526.11,26.27,8.28
+Chicken Curry ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",473.25,9.49,6.34
+Misal Pav ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",291.14,8.11,5.67
+Poha ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",259.93,6.67,4.76
+Medu Vada ,"cabbage, gram flour, spices","cabbage, spices, gram flour",193.91,18.03,7.51
+Mutton Rogan Josh ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",564.76,28.65,6.05
+Bhel Puri ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",411.28,15.68,6.73
+Bhindi Masala ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",319.85,29.72,5.43
+Handvo ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",250.6,6.14,9.61
+Vegetable Biryani ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",197.45,8.09,5.09
+Masoor Dal ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",229.18,10.16,8.25
+Palak Paneer ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",304.03,22.88,6.99
+Bhindi Masala ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",158.23,28.87,5.53
+Chole Bhature ,"gram flour, spices, yogurt","yogurt, spices, gram flour",168.93,29.21,6.9
+Misal Pav ,"okra, onion, spices, oil","onion, oil, spices, okra",262.74,14.31,2.65
+Aloo Paratha ,"rice, lentils, vegetables","vegetables, lentils, rice",437.89,11.62,3.68
+Baingan Bharta ,"lentils, spices, rice flour","lentils, spices, rice flour",527.9,16.23,9.45
+Vada ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",298.65,16.08,2.4
+Sev Puri ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",465.41,5.95,6.71
+Pav Bhaji ,"tapioca, peanuts, spices","peanuts, spices, tapioca",373.58,20.09,7.69
+Medu Vada ,"urad dal, rice flour, spices","urad dal, spices, rice flour",592.64,27.01,8.94
+Bhindi Masala ,"rice, lentils, vegetables","vegetables, lentils, rice",335.47,9.36,2.85
+Pani Puri ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",304.68,10.85,1.96
+Chole Bhature ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",297.84,24.08,5
+Baingan Bharta ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",348.61,25.39,4.55
+Mutton Rogan Josh ,"lentils, spices, rice flour","lentils, spices, rice flour",215.65,24.94,1.69
+Upma ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",580.59,21.97,9.91
+Sev Puri ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",278.45,26.08,5.09
+Vegetable Biryani ,"cabbage, gram flour, spices","cabbage, spices, gram flour",336.3,29.55,4.94
+Khandvi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",234.23,25.26,4.37
+Idli ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",342.05,6.98,3.15
+Baingan Bharta ,"rice, lentils, vegetables","vegetables, lentils, rice",205.82,8.77,7.09
+Dhokla ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",232.97,19.69,4.21
+Medu Vada ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",323,18.27,5.25
+Tandoori Chicken ,"green gram, spices, ginger","green gram, spices, ginger",297.68,9.78,6.84
+Palak Paneer ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",555.78,13.44,8.04
+Misal Pav ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",345.38,6.87,6.33
+Baingan Bharta ,"tapioca, peanuts, spices","peanuts, spices, tapioca",547.65,10.28,2.43
+Samosa ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",430.83,16.48,9.67
+Palak Paneer ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",521.79,20.92,3.89
+Dosa ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",229.49,25.87,3.65
+Baingan Bharta ,"cabbage, gram flour, spices","cabbage, spices, gram flour",482.26,29.63,2.26
+Pani Puri ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",562.51,15.58,1.74
+Mutton Rogan Josh ,"gram flour, spices, yogurt","yogurt, spices, gram flour",370.11,8.08,9.3
+Pani Puri ,"green gram, spices, ginger","green gram, spices, ginger",290.39,25,7.35
+Rajma Chawal ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",339.65,28.71,5.79
+Chicken Curry ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",181.14,18.35,4.64
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",424.57,29.58,7.57
+Kadai Paneer ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",226.05,10.06,7.66
+Misal Pav ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",174.48,14.18,9
+Baingan Bharta ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",378.48,6.07,4.91
+Sev Puri ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",443.64,12.6,8.4
+Upma ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",191.17,20.93,6.95
+Pesarattu ,"cabbage, gram flour, spices","cabbage, spices, gram flour",361.74,25.47,6
+Pav Bhaji ,"okra, onion, spices, oil","onion, oil, spices, okra",296.16,24.9,8.67
+Dosa ,"gram flour, spices, yogurt","yogurt, spices, gram flour",394.05,19.72,3.55
+Idli ,"okra, onion, spices, oil","onion, oil, spices, okra",578.38,14.38,6.32
+Handvo ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",215.79,9.03,1.08
+Vada ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",478.29,16.23,9.85
+Khichdi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",539.72,17.17,5.91
+Khandvi ,"vegetables, spices, rice","vegetables, spices, rice",172.18,27.34,9.82
+Khichdi ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",303.04,28.59,3.55
+Vada ,"okra, onion, spices, oil","onion, oil, spices, okra",562.68,5.69,8.74
+Vada ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",205.09,15.64,5.17
+Masoor Dal ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",326.31,19.92,3.5
+Sev Puri ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",336.72,28.09,3.81
+Pani Puri ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",537.7,13.76,4.65
+Samosa ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",548.45,24.16,7.18
+Vada ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",574.64,7.11,1.52
+Khandvi ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",308.55,24.54,6.21
+Baingan Bharta ,"lentils, spices, rice flour","lentils, spices, rice flour",279.29,22.45,1.95
+Misal Pav ,"gram flour, spices, yogurt","yogurt, spices, gram flour",395.75,20.76,6.11
+Sev Puri ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",156.73,7.92,3.48
+Khandvi ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",274.66,5.57,1.64
+Rajma Chawal ,"green gram, spices, ginger","green gram, spices, ginger",367.23,12.22,1.33
+Pesarattu ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",452.75,7.62,6.23
+Poha ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",231.76,11.29,4.24
+Khandvi ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",370.04,18.27,1.41
+Idli ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",286.53,21.42,2.16
+Undhiyu ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",166.01,24.97,3.22
+Sabudana Khichdi ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",407.3,22.17,8.74
+Vegetable Biryani ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",276.83,25.62,4.2
+Baingan Bharta ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",375.14,9.11,7.37
+Mutton Rogan Josh ,"lentils, spices, rice flour","lentils, spices, rice flour",559.65,14.15,8.81
+Bhindi Masala ,"green gram, spices, ginger","green gram, spices, ginger",373.69,22.94,4.64
+Khandvi ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",335.78,17.52,6.9
+Handvo ,"rice, lentils, vegetables","vegetables, lentils, rice",498.67,20.83,6.38
+Sev Puri ,"okra, onion, spices, oil","onion, oil, spices, okra",598.48,18.01,7.81
+Idli ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",565.31,16.86,7.35
+Aloo Paratha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",594.35,22.81,7.76
+Dosa ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",432.11,5.91,3.41
+Samosa ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",554.84,8.12,1.37
+Upma ,"vegetables, spices, rice","vegetables, spices, rice",522.91,20.28,3
+Misal Pav ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",544.72,5.65,4.89
+Bhindi Masala ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",272.29,7.13,6.95
+Bhel Puri ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",157.42,11.82,5.82
+Kadai Paneer ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",248.56,15.97,1.6
+Misal Pav ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",544.45,25.81,6.89
+Bhindi Masala ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",291.91,15.07,6.22
+Khichdi ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",297.44,24.39,7.59
+Pesarattu ,"vegetables, spices, rice","vegetables, spices, rice",459.46,18.47,6.47
+Baingan Bharta ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",158.23,28.24,6.78
+Mutton Rogan Josh ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",248.1,19.13,3.54
+Khandvi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",172.11,12.35,5.21
+Bhel Puri ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",576.34,18.86,2.06
+Chicken Curry ,"urad dal, rice flour, spices","urad dal, spices, rice flour",519.04,28.76,4.71
+Vegetable Biryani ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",152.5,11.74,5.98
+Chole Bhature ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",486.65,9.4,6.76
+Chicken Curry ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",369.43,26.64,6.91
+Masoor Dal ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",507.98,24.11,6.22
+Chole Bhature ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",475.27,8.44,8.93
+Undhiyu ,"urad dal, rice flour, spices","urad dal, spices, rice flour",341.86,26.82,3
+Samosa ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",496.98,5.31,6.09
+Dosa ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",237.73,23.04,4.63
+Undhiyu ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",405.76,12.66,3.11
+Baingan Bharta ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",176.08,9.48,7.6
+Tandoori Chicken ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",222.38,26.36,1.88
+Aloo Paratha ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",275.3,6.44,3.74
+Paneer Butter Masala ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",366.86,12.31,7.48
+Vegetable Biryani ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",572.75,16.95,3.95
+Bhel Puri ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",575.59,15.07,6.99
+Bhel Puri ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",276.41,27.73,4.7
+Masoor Dal ,"vegetables, spices, rice","vegetables, spices, rice",588.95,5.53,3.4
+Thepla ,"okra, onion, spices, oil","onion, oil, spices, okra",461.27,9.91,5.28
+Pani Puri ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",399.19,12.36,5.29
+Idli ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",269.14,22.15,9.51
+Khichdi ,"tapioca, peanuts, spices","peanuts, spices, tapioca",459.22,24.93,3.8
+Mutton Rogan Josh ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",381.32,7.79,8.84
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",225.95,25.57,1.9
+Thepla ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",478.6,9.47,3.93
+Khichdi ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",189.71,12.49,2.31
+Aloo Paratha ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",353.34,19.74,9.48
+Chole Bhature ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",231.45,26.5,9.58
+Misal Pav ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",541.97,17.31,3.5
+Bhel Puri ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",157.65,24.09,4.22
+Mutton Rogan Josh ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",596.62,9.17,1.67
+Vada ,"vegetables, spices, rice","vegetables, spices, rice",355.04,9.64,1.94
+Bhindi Masala ,"tapioca, peanuts, spices","peanuts, spices, tapioca",577.27,5,9.84
+Mutton Rogan Josh ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",555.72,23.35,6.31
+Handvo ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",496.44,9.53,3.42
+Sabudana Khichdi ,"okra, onion, spices, oil","onion, oil, spices, okra",503.34,7.02,2.6
+Pesarattu ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",193.72,16.9,6.73
+Upma ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",544.37,26.88,4.38
+Bhel Puri ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",586.19,25.91,3.24
+Khandvi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",281.91,18.73,4.55
+Vada ,"green gram, spices, ginger","green gram, spices, ginger",154.63,7.63,7.49
+Vada ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",223.67,12.84,3.44
+Upma ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",562.45,26.86,1.46
+Khandvi ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",485.86,26.04,3.74
+Bhindi Masala ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",433.48,11.44,7.04
+Sev Puri ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",436.28,13.22,7.25
+Bhindi Masala ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",570.27,5.29,5.72
+Masoor Dal ,"cabbage, gram flour, spices","cabbage, spices, gram flour",533.57,13.23,6.63
+Handvo ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",482.76,8.88,2.09
+Tandoori Chicken ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",524.31,17.17,7.94
+Sev Puri ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",332.84,20.93,7.18
+Khichdi ,"lentils, spices, rice flour","lentils, spices, rice flour",445.88,27.4,8.14
+Poha ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",563.35,23.41,3.91
+Paneer Butter Masala ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",315.22,20,6.63
+Bhindi Masala ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",299.18,21.02,4.4
+Aloo Paratha ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",309.24,19.6,9.94
+Upma ,"okra, onion, spices, oil","onion, oil, spices, okra",233.18,12.95,1.84
+Bhindi Masala ,"cabbage, gram flour, spices","cabbage, spices, gram flour",465.62,22.92,7.68
+Baingan Bharta ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",421.56,26.2,2.51
+Handvo ,"rice, lentils, vegetables","vegetables, lentils, rice",493.95,16.24,7.8
+Samosa ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",457.15,26.04,7.72
+Vegetable Biryani ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",417.96,16.27,9.75
+Idli ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",427.13,20.72,2.44
+Idli ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",470.69,19.27,1.12
+Poha ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",446.8,9.82,4.3
+Masoor Dal ,"green gram, spices, ginger","green gram, spices, ginger",175.33,18.51,9.51
+Undhiyu ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",224.68,17.83,4
+Dosa ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",389.33,15.32,8.44
+Misal Pav ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",490.72,7.78,6.38
+Palak Paneer ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",418.54,16.44,2.99
+Sev Puri ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",160.18,7.73,2.15
+Dhokla ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",328.08,11.08,9.55
+Khichdi ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",507.69,19.87,3.76
+Pav Bhaji ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",168.67,5.89,9.4
+Baingan Bharta ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",378.85,29.13,1.23
+Misal Pav ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",390.51,8.46,2.96
+Bhindi Masala ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",305.81,12.9,8.2
+Handvo ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",279.05,15.41,4.89
+Pav Bhaji ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",515.46,14.86,8.81
+Undhiyu ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",548.09,27.04,2.3
+Sabudana Khichdi ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",413.48,25.21,4.55
+Pani Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",442.53,7.24,5
+Bhel Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",584.6,18.31,8.13
+Undhiyu ,"gram flour, spices, yogurt","yogurt, spices, gram flour",254.34,15.41,6.47
+Vada ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",441.62,16.31,8.63
+Medu Vada ,"okra, onion, spices, oil","onion, oil, spices, okra",422.08,23.47,9.68
+Aloo Paratha ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",588.44,9.28,2.44
+Misal Pav ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",184.28,25.71,1.57
+Medu Vada ,"okra, onion, spices, oil","onion, oil, spices, okra",529.94,22.62,4.33
+Aloo Paratha ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",288.9,28.69,1.2
+Handvo ,"okra, onion, spices, oil","onion, oil, spices, okra",281.71,22.89,3.07
+Undhiyu ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",260.67,20.97,7.64
+Kadai Paneer ,"okra, onion, spices, oil","onion, oil, spices, okra",559.94,12.5,1.74
+Rajma Chawal ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",460.8,7.13,8.21
+Sev Puri ,"rice, lentils, vegetables","vegetables, lentils, rice",346.94,15.94,7.19
+Palak Paneer ,"lentils, spices, rice flour","lentils, spices, rice flour",228.72,17.84,1.57
+Upma ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",365.85,18.13,3.72
+Pani Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",188.14,27.99,1.16
+Undhiyu ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",207.72,16.09,5.86
+Bhel Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",516.59,29.03,2.08
+Pesarattu ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",336.19,21.23,7.45
+Sev Puri ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",594.37,21.74,9.54
+Dhokla ,"tapioca, peanuts, spices","peanuts, spices, tapioca",232.88,25.67,8.94
+Poha ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",298.4,6.56,8
+Thepla ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",511.67,20.49,4.57
+Khichdi ,"green gram, spices, ginger","green gram, spices, ginger",183.59,15.79,9.86
+Dhokla ,"urad dal, rice flour, spices","urad dal, spices, rice flour",312.86,6.34,3.3
+Sev Puri ,"rice, lentils, vegetables","vegetables, lentils, rice",419.18,20.58,5.56
+Aloo Paratha ,"okra, onion, spices, oil","onion, oil, spices, okra",240.44,9.73,3.43
+Sabudana Khichdi ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",305.56,12.51,1.35
+Medu Vada ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",479.49,9.23,8.31
+Khandvi ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",450.17,16.04,8.18
+Poha ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",336.71,8.01,9.67
+Palak Paneer ,"lentils, spices, rice flour","lentils, spices, rice flour",446.48,5.36,5.81
+Misal Pav ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",212.01,24.76,7.72
+Palak Paneer ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",565.8,20.66,8.49
+Chicken Curry ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",305.51,12.51,1.18
+Vada ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",341.81,23.42,3.6
+Pani Puri ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",348.42,9.59,7.54
+Aloo Paratha ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",367.17,22.18,9.2
+Bhindi Masala ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",589.79,16.51,1.86
+Aloo Paratha ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",321.25,16.87,3.26
+Khichdi ,"gram flour, spices, yogurt","yogurt, spices, gram flour",185.87,18.15,3.5
+Khichdi ,"urad dal, rice flour, spices","urad dal, spices, rice flour",165.22,13.02,1.84
+Chicken Curry ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",451.71,25.16,7.07
+Mutton Rogan Josh ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",564.84,9.71,1.16
+Sabudana Khichdi ,"urad dal, rice flour, spices","urad dal, spices, rice flour",330.22,13.35,4.36
+Masoor Dal ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",377.9,14.97,6.32
+Chole Bhature ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",357.47,16.77,8.7
+Undhiyu ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",230.17,27.9,1.18
+Rajma Chawal ,"tapioca, peanuts, spices","peanuts, spices, tapioca",450.01,29.44,3.52
+Dosa ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",591.96,18.25,7.45
+Khichdi ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",296.18,14.04,4.91
+Bhel Puri ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",502.78,19.56,2.3
+Khandvi ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",457.42,26.38,5.72
+Pani Puri ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",281.16,20.15,3.01
+Medu Vada ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",593.49,18.63,8.74
+Pani Puri ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",466.59,13.43,9.08
+Baingan Bharta ,"green gram, spices, ginger","green gram, spices, ginger",387.63,22.52,7.49
+Dhokla ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",345.76,26.56,5.66
+Tandoori Chicken ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",483.72,15.46,9.94
+Dhokla ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",199.23,26.88,6.3
+Vada ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",437.48,19.45,9.01
+Upma ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",296.36,22.92,3.98
+Vegetable Biryani ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",331.02,18.85,5.46
+Handvo ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",219.99,24.78,2.13
+Chicken Curry ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",460.5,5.26,1.16
+Pav Bhaji ,"lentils, spices, rice flour","lentils, spices, rice flour",339.18,21.94,5.2
+Vegetable Biryani ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",546.45,13.63,6.61
+Pani Puri ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",514.19,6.08,3.19
+Mutton Rogan Josh ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",225.72,27.08,2.84
+Handvo ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",539.29,29.43,5.74
+Paneer Butter Masala ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",405.23,16.68,2.04
+Handvo ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",282.97,8.68,2.56
+Idli ,"rice, lentils, vegetables","vegetables, lentils, rice",551.72,24.56,4.68
+Palak Paneer ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",408.45,18.85,7.09
+Upma ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",170.91,25.2,3.65
+Dhokla ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",487.2,12.45,5.59
+Upma ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",466.42,11.43,8.53
+Samosa ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",202.6,28.68,4.59
+Mutton Rogan Josh ,"urad dal, rice flour, spices","urad dal, spices, rice flour",587.73,23.26,5.36
+Bhel Puri ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",480.24,25.82,4.65
+Vada ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",155.25,19.35,7.03
+Sabudana Khichdi ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",317.89,9.42,8.28
+Bhel Puri ,"okra, onion, spices, oil","onion, oil, spices, okra",372.91,23.55,2.43
+Vegetable Biryani ,"tapioca, peanuts, spices","peanuts, spices, tapioca",451,20.85,5.93
+Rajma Chawal ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",360.71,5.08,6.96
+Khichdi ,"vegetables, spices, rice","vegetables, spices, rice",156.67,28.52,3.4
+Rajma Chawal ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",588.79,24.22,2.52
+Pav Bhaji ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",358.09,6.37,7.18
+Poha ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",223.41,13.93,8.32
+Pesarattu ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",492.98,15.51,1.05
+Kadai Paneer ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",298.01,11.7,2.42
+Bhel Puri ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",367.2,10.54,9.5
+Medu Vada ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",284.6,29.71,5.99
+Aloo Paratha ,"tapioca, peanuts, spices","peanuts, spices, tapioca",371.34,6.25,9.12
+Pani Puri ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",308.79,13.71,4.89
+Vada ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",481.8,6.33,7.4
+Vada ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",233.61,17.27,8.33
+Vada ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",333.25,23.74,9.03
+Pav Bhaji ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",519.37,22.79,9.98
+Masoor Dal ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",591.63,15.88,8.96
+Masoor Dal ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",356.65,28.81,2.49
+Bhel Puri ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",245.34,20.44,4.75
+Chicken Curry ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",497.98,28.87,4.58
+Dosa ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",344.23,7.34,7.3
+Samosa ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",256.79,26.89,4.37
+Pesarattu ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",267.64,23.25,7.01
+Poha ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",213.42,17.74,4
+Rajma Chawal ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",569.05,23.39,4.8
+Dosa ,"okra, onion, spices, oil","onion, oil, spices, okra",223.62,14.93,9.22
+Mutton Rogan Josh ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",509.12,27.61,8.34
+Paneer Butter Masala ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",379.51,11.16,3.42
+Kadai Paneer ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",302.54,24.74,6.13
+Samosa ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",481.91,23.9,9.28
+Masoor Dal ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",431.44,27.4,5.47
+Chole Bhature ,"gram flour, spices, yogurt","yogurt, spices, gram flour",181.66,11.9,9.64
+Bhindi Masala ,"okra, onion, spices, oil","onion, oil, spices, okra",270.68,6.94,7.22
+Samosa ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",538.73,10.31,4.06
+Misal Pav ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",576.73,19.83,3.02
+Dosa ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",466.79,23.23,6.33
+Paneer Butter Masala ,"green gram, spices, ginger","green gram, spices, ginger",188.1,23.43,2.55
+Pav Bhaji ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",422.55,15.61,7.4
+Bhel Puri ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",580.78,15.93,3.75
+Chicken Curry ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",508.88,20,8.53
+Sabudana Khichdi ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",570.7,28.07,3.94
+Khandvi ,"rice, lentils, vegetables","vegetables, lentils, rice",256.4,28.71,2.07
+Misal Pav ,"okra, onion, spices, oil","onion, oil, spices, okra",444.38,15.65,6.2
+Chole Bhature ,"lentils, spices, rice flour","lentils, spices, rice flour",196.8,18.66,8.04
+Thepla ,"lentils, spices, rice flour","lentils, spices, rice flour",547.66,28.22,1.29
+Chicken Curry ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",361.08,23.2,6.81
+Handvo ,"green gram, spices, ginger","green gram, spices, ginger",204.38,6.99,2.23
+Pesarattu ,"lentils, spices, rice flour","lentils, spices, rice flour",248.94,25.79,9.33
+Poha ,"okra, onion, spices, oil","onion, oil, spices, okra",251.63,27.07,9.95
+Masoor Dal ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",312.91,8.76,2.57
+Palak Paneer ,"okra, onion, spices, oil","onion, oil, spices, okra",543.85,29.29,7.07
+Samosa ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",491.81,15.76,5.04
+Dhokla ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",569.65,12.49,8.96
+Mutton Rogan Josh ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",307.31,29.43,4.31
+Pav Bhaji ,"green gram, spices, ginger","green gram, spices, ginger",222.73,5.48,6.85
+Palak Paneer ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",274.12,10.51,5.84
+Pav Bhaji ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",269.91,8.13,4.83
+Chicken Curry ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",539.35,23.48,8.86
+Misal Pav ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",526.4,14.36,6.95
+Medu Vada ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",539.97,14.7,9.04
+Dosa ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",312.05,16.57,3.99
+Pesarattu ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",386.14,23.59,4.58
+Baingan Bharta ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",365.51,15.45,5.56
+Sev Puri ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",594.52,13.48,5.41
+Baingan Bharta ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",560.33,13.8,5.28
+Kadai Paneer ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",258.05,12.06,2.85
+Thepla ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",377.39,28.61,4.59
+Dosa ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",292.44,6.68,3.13
+Poha ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",250.27,22.88,4.82
+Idli ,"urad dal, rice flour, spices","urad dal, spices, rice flour",420.97,11.49,8.43
+Palak Paneer ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",461.54,19.82,9.92
+Pani Puri ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",287.52,28.86,5.97
+Bhel Puri ,"vegetables, spices, rice","vegetables, spices, rice",176.55,13.78,1.45
+Pani Puri ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",272.6,16.44,5.77
+Sabudana Khichdi ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",459.78,11.21,7.58
+Handvo ,"vegetables, spices, rice","vegetables, spices, rice",404.36,20.77,8.33
+Medu Vada ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",294.43,15.8,2.36
+Khandvi ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",589.06,11.07,6.71
+Mutton Rogan Josh ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",556.87,25.82,1.88
+Bhindi Masala ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",362.91,21.94,7.3
+Dhokla ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",529.11,11.14,9.64
+Palak Paneer ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",485.73,6.04,5.07
+Pesarattu ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",416.32,7.95,7.35
+Dosa ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",428.1,13.8,6.06
+Paneer Butter Masala ,"lentils, spices, rice flour","lentils, spices, rice flour",200.37,22.93,6.06
+Paneer Butter Masala ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",174.31,19.77,6.36
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",150.05,16.53,9.77
+Sabudana Khichdi ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",277.82,26.47,4.37
+Mutton Rogan Josh ,"cabbage, gram flour, spices","cabbage, spices, gram flour",339.3,20.42,1.54
+Rajma Chawal ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",190.74,23.22,5.86
+Tandoori Chicken ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",579.65,14.37,8.42
+Sabudana Khichdi ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",487.01,19.53,5.4
+Baingan Bharta ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",543.15,18.56,4.03
+Khandvi ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",169.17,21.66,3.79
+Chole Bhature ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",597.33,6.94,4.89
+Thepla ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",331.51,11.6,6.44
+Kadai Paneer ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",389.93,17.1,4.66
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",162.06,9.04,4.91
+Pesarattu ,"urad dal, rice flour, spices","urad dal, spices, rice flour",255.88,5.4,4.67
+Dhokla ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",478.76,6.66,5.39
+Masoor Dal ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",585.21,24.89,8.83
+Vegetable Biryani ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",335.81,29.05,1.86
+Poha ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",474.63,26.82,3.75
+Paneer Butter Masala ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",485.1,20.21,7.93
+Vegetable Biryani ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",283.14,18.3,3.31
+Chole Bhature ,"gram flour, spices, yogurt","yogurt, spices, gram flour",198.15,21.95,5.68
+Thepla ,"gram flour, spices, yogurt","yogurt, spices, gram flour",206.97,22.63,8.75
+Samosa ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",287.88,11.17,5.87
+Misal Pav ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",207.19,19.1,7.33
+Mutton Rogan Josh ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",180.76,27.53,3.42
+Misal Pav ,"vegetables, spices, rice","vegetables, spices, rice",220.72,29.2,6.11
+Dosa ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",152.66,5.47,3.54
+Baingan Bharta ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",355.25,15.39,8.93
+Khandvi ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",191.4,8.57,7.72
+Mutton Rogan Josh ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",278.85,27.6,1.51
+Pani Puri ,"green gram, spices, ginger","green gram, spices, ginger",515.58,22.59,2.63
+Idli ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",175.78,14.24,3.11
+Masoor Dal ,"vegetables, spices, rice","vegetables, spices, rice",405.31,11.09,2.11
+Palak Paneer ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",247.41,14.87,5.87
+Tandoori Chicken ,"okra, onion, spices, oil","onion, oil, spices, okra",294.82,15.95,3.33
+Sev Puri ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",276.98,19.26,1.73
+Palak Paneer ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",167.67,5.77,6.44
+Masoor Dal ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",348.26,11.7,8.45
+Idli ,"rice, lentils, vegetables","vegetables, lentils, rice",489.94,19.88,1.88
+Khandvi ,"green gram, spices, ginger","green gram, spices, ginger",280.33,9.46,1.15
+Khandvi ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",383.43,27.54,6.33
+Baingan Bharta ,"rice, lentils, vegetables","vegetables, lentils, rice",294.65,16.26,2.07
+Vada ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",401.01,25.6,8.39
+Palak Paneer ,"lentils, spices, rice flour","lentils, spices, rice flour",177.11,22.88,5.1
+Dosa ,"vegetables, spices, rice","vegetables, spices, rice",490.41,14.24,8.73
+Handvo ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",475.1,28.18,6.44
+Medu Vada ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",346.19,10.85,4.2
+Poha ,"cabbage, gram flour, spices","cabbage, spices, gram flour",563.27,25.17,7.04
+Khichdi ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",323.57,6.12,3.11
+Idli ,"cabbage, gram flour, spices","cabbage, spices, gram flour",169.48,28.04,5.18
+Vada ,"urad dal, rice flour, spices","urad dal, spices, rice flour",238.54,9.87,9.09
+Bhel Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",228.56,10.45,6.24
+Upma ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",486.7,23.16,5.92
+Handvo ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",296.12,26.18,4.66
+Khichdi ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",412.37,5.31,7.22
+Upma ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",207.52,14.54,2.36
+Upma ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",378.02,26.3,4.88
+Baingan Bharta ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",238.61,24.24,2.98
+Chicken Curry ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",327.72,11.49,3.42
+Bhel Puri ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",598.92,26.23,8.57
+Sabudana Khichdi ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",159.92,25.71,2.78
+Poha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",162.8,14.17,3.7
+Kadai Paneer ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",443.76,8.31,5.65
+Samosa ,"okra, onion, spices, oil","onion, oil, spices, okra",150.23,10,6.78
+Pesarattu ,"gram flour, spices, yogurt","yogurt, spices, gram flour",252.47,25.65,1.53
+Misal Pav ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",252.49,23.54,9.79
+Handvo ,"okra, onion, spices, oil","onion, oil, spices, okra",303.23,26.54,1.09
+Paneer Butter Masala ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",413.28,7.06,1.43
+Pesarattu ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",349.63,5.97,6.01
+Masoor Dal ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",332.17,16.14,1.82
+Paneer Butter Masala ,"okra, onion, spices, oil","onion, oil, spices, okra",508.15,29.75,3.78
+Sabudana Khichdi ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",561.13,18.51,6.46
+Bhel Puri ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",437.44,11.69,3.46
+Chicken Curry ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",273.33,27.07,2.92
+Undhiyu ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",251.88,24.75,6.28
+Pesarattu ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",494.86,28.4,5.49
+Paneer Butter Masala ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",369.26,9.18,6.26
+Chole Bhature ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",585.56,7.11,3.19
+Idli ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",244.14,29.32,3.94
+Dhokla ,"okra, onion, spices, oil","onion, oil, spices, okra",405.08,6.22,9.32
+Upma ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",541.02,24.43,6.06
+Bhindi Masala ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",360.61,24.81,4.33
+Bhel Puri ,"green gram, spices, ginger","green gram, spices, ginger",590.46,21.39,4.54
+Baingan Bharta ,"gram flour, spices, yogurt","yogurt, spices, gram flour",428.22,29.02,3.51
+Palak Paneer ,"urad dal, rice flour, spices","urad dal, spices, rice flour",276.31,27.24,5.2
+Vegetable Biryani ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",287.25,27.66,8.43
+Palak Paneer ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",489.99,17.6,7.95
+Chicken Curry ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",384.47,10.27,5.46
+Pani Puri ,"rice, lentils, vegetables","vegetables, lentils, rice",591.07,14.01,8.62
+Khandvi ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",342.3,29.32,9.31
+Poha ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",303.61,19.11,2.14
+Baingan Bharta ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",591.75,14.34,8.03
+Khichdi ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",582.41,14.14,1.45
+Khandvi ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",258.83,13.8,7.36
+Khichdi ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",393.58,23.68,4.1
+Bhel Puri ,"mutton, spices, yogurt, onion","mutton, yogurt, spices, onion",168.07,18.06,9.33
+Thepla ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",376.49,17.3,4.69
+Vegetable Biryani ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",281.68,13.2,1.69
+Khandvi ,"okra, onion, spices, oil","onion, oil, spices, okra",564.78,17.97,2.54
+Poha ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",358.49,17.82,3.21
+Kadai Paneer ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",355.5,24.2,4.44
+Khichdi ,"vegetables, spices, rice","vegetables, spices, rice",176.82,12.45,4.93
+Kadai Paneer ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",340.04,18.43,8.41
+Palak Paneer ,"green gram, spices, ginger","green gram, spices, ginger",323.86,19.43,2.66
+Idli ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",481.3,10.45,8.73
+Dhokla ,"gram flour, yogurt, mustard seeds","mustard seeds, yogurt, gram flour",190.57,26.22,9.97
+Paneer Butter Masala ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",535.66,14.05,2.91
+Mutton Rogan Josh ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",210.65,16.81,1.78
+Dhokla ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",195.64,9.72,8.21
+Mutton Rogan Josh ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",311.5,7.06,4.34
+Paneer Butter Masala ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",388.44,15.57,2.95
+Palak Paneer ,"gram flour, spices, yogurt","yogurt, spices, gram flour",557.18,18.42,7.87
+Bhel Puri ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",150.86,14.12,5.4
+Aloo Paratha ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",250.8,25.32,6.68
+Chicken Curry ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",517.02,21.78,4.36
+Pav Bhaji ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",211.74,14.84,2.14
+Idli ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",250.97,25.79,6.53
+Handvo ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",395.01,23.05,7.88
+Samosa ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",216.41,15.87,1.2
+Idli ,"vegetables, spices, rice","vegetables, spices, rice",556.01,12.93,5.7
+Misal Pav ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",358.85,5.41,2.91
+Paneer Butter Masala ,"chickpeas, flour, oil, spices","chickpeas, flour, oil, spices",284.84,22.12,8.44
+Bhel Puri ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",507.91,20.74,2.13
+Vegetable Biryani ,"lentils, onion, tomato, turmeric","tomato, lentils, turmeric, onion",290.51,10.53,7.71
+Mutton Rogan Josh ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",323.7,23.24,6.56
+Paneer Butter Masala ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",253.79,13.81,3.86
+Tandoori Chicken ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",488.83,16.3,3.55
+Kadai Paneer ,"okra, onion, spices, oil","onion, oil, spices, okra",578.45,29.27,6.88
+Bhel Puri ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",420.32,12.49,2.11
+Pani Puri ,"sprouts, onion, farsan, spices","farsan, sprouts, spices, onion",329.86,13.19,2.69
+Handvo ,"vegetables, potatoes, bread, butter","vegetables, bread, potatoes, butter",255.68,12.94,9.33
+Tandoori Chicken ,"rice, lentils, vegetables","vegetables, lentils, rice",225.47,29.6,8.09
+Misal Pav ,"urad dal, rice flour, spices","urad dal, spices, rice flour",409.27,23.58,9.57
+Bhel Puri ,"tapioca, peanuts, spices","peanuts, spices, tapioca",463.65,22.61,1.59
+Handvo ,"eggplant, tomato, onion, spices","tomato, spices, eggplant, onion",381.33,21.9,1.85
+Sabudana Khichdi ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",330.06,9.84,3.08
+Medu Vada ,"lentils, spices, rice flour","lentils, spices, rice flour",585.77,12.81,1.32
+Dhokla ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",348.33,22.19,6.42
+Idli ,"okra, onion, spices, oil","onion, oil, spices, okra",552.73,12.66,9.66
+Pesarattu ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",246.13,18.88,4.19
+Pav Bhaji ,"vegetables, spices, rice","vegetables, spices, rice",346.53,19.68,3.69
+Paneer Butter Masala ,"flattened rice, onion, mustard seeds","flattened rice, mustard seeds, onion",463.42,13.3,7.13
+Pav Bhaji ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",454.09,19.03,6.65
+Upma ,"rice, urad dal, fenugreek","urad dal, rice, fenugreek",235,5.35,8.84
+Medu Vada ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",473.77,25.15,7.34
+Medu Vada ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",259.67,24.11,1.02
+Paneer Butter Masala ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",417.97,25.91,8.39
+Baingan Bharta ,"okra, onion, spices, oil","onion, oil, spices, okra",534.58,13.06,9.04
+Handvo ,"rice, lentils, fenugreek, salt","lentils, salt, rice, fenugreek",263.01,29.97,7.35
+Rajma Chawal ,"chicken, yogurt, spices, lemon","lemon, chicken, spices, yogurt",365.4,13.44,2.52
+Bhel Puri ,"tapioca, peanuts, spices","peanuts, spices, tapioca",494.43,13.44,5.39
+Pav Bhaji ,"paneer, butter, cream, tomato, spices","butter, spices, cream, paneer, tomato",199.82,16.43,2.3
+Paneer Butter Masala ,"wheat flour, fenugreek, spices","fenugreek, spices, wheat flour",310.11,17.22,3.41
+Tandoori Chicken ,"chicken, onion, tomato, spices","tomato, chicken, spices, onion",237.44,23.43,3.87
+Poha ,"kidney beans, rice, spices, onion, garlic","spices, garlic, rice, onion, kidney beans",414.84,7.56,9.68
+Baingan Bharta ,"gram flour, spices, yogurt","yogurt, spices, gram flour",201.88,22.33,5.62
+Dosa ,"puffed rice, sev, spices, onion","puffed rice, onion, spices, sev",401.57,20.63,1.15
+Handvo ,"okra, onion, spices, oil","onion, oil, spices, okra",328.3,25.74,6.72
+Baingan Bharta ,"potatoes, peas, flour, spices","flour, spices, potatoes, peas",426.94,11.93,4.37
+Baingan Bharta ,"semolina, vegetables, mustard seeds","vegetables, semolina, mustard seeds",186.78,28.7,3.25
+Pav Bhaji ,"paneer, capsicum, onion, tomato","tomato, capsicum, paneer, onion",475.61,10.96,4.98
+Bhindi Masala ,"spinach, paneer, garlic, ginger, onion","spinach, garlic, paneer, onion, ginger",268.25,14.27,7.3
+Dhokla ,"okra, onion, spices, oil","onion, oil, spices, okra",173.95,27.84,8.43
+Khandvi ,"okra, onion, spices, oil","onion, oil, spices, okra",417.64,5.49,4.75
+Misal Pav ,"tapioca, peanuts, spices","peanuts, spices, tapioca",309.02,16.2,9.79
+Tandoori Chicken ,"potatoes, wheat flour, butter, salt","butter, salt, potatoes, wheat flour",307.14,16.08,8.22
+Paneer Butter Masala ,"basmati rice, vegetables, spices, ghee","vegetables, basmati rice, spices, ghee",592.18,5.82,2.63
+Sabudana Khichdi ,"green gram, spices, ginger","green gram, spices, ginger",179.77,8.71,9.98
+Rajma Chawal ,"semolina, spices, mint, tamarind","mint, semolina, tamarind, spices",269.02,11.44,2.48
